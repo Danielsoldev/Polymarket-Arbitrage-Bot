@@ -6,9 +6,13 @@ Automated hedged arbitrage on Polymarket's 15-minute Up/Down markets (e.g. BTC, 
 
 ## Private Version Bot Profile
 
+![Bot Profile](image/profile.png)
 
-Bot Profile
+---
 
+## Arbitrage Results
+
+![Arbitrage Result](image/result.png)
 
 ---
 
@@ -35,7 +39,7 @@ Bot Profile
 ## Install
 
 ```bash
-git clone https://github.com/solship/Polymarket-Arbitrage-Bot.git
+git clone https://github.com/Danielsoldev/Polymarket-Arbitrage-Bot.git
 cd Polymarket-Arbitrage-Bot
 npm install
 ```
